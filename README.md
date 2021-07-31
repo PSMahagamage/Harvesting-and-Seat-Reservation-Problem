@@ -1,2 +1,2 @@
-# Harvesting-and-Seat-Reservation-Problem
-Scala Programming
+# Harvesting-and-Seat-Reservation-Problems
+Writting Different Programs using Scala 
